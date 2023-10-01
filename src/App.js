@@ -19,7 +19,7 @@ function App() {
     <Search/>
     <Navbarr/>
       <Routes> 
-        <Route paath="/store" element={<Home />}/>
+        <Route path="/store" element={<Home />}/>
 
       <Route path="/" element={<Home />} />
           <Route path="/blogs" element={<Blogs />} />
