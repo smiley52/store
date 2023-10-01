@@ -1,0 +1,35 @@
+.hello{
+    height: calc(600px);
+    width: 100%;
+    background-image: url('../images/th (1).jpeg');
+    background-size: cover;
+    background-color: red;
+    
+}
+.bold{
+    font-size: 50px;
+    color: white;
+}
+.bold1{
+    font-size: 90px;
+    color: white;
+}
+.bold2{
+    font-size: 130px;
+    color: white;
+}
+.container{
+    height: 500px;
+}
+.featured{
+    font-size: 50px;
+    display: flex;
+    text-align: center;
+    background-color: bisque;
+    height: 100px;
+    align-items: center;
+}
+.container{
+    background-color: bisque;
+    width: 100%;
+}

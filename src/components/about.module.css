@@ -1,0 +1,18 @@
+.aboutus{
+    height: calc(500px);
+    width: 100%;
+    font-size: 100px;
+    color: white;
+    background-image: url('../images/aboutt.jpeg');
+    background-size: cover;
+    background-color: red;
+}
+.carousel{
+    height: 200px;
+}
+.containers{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
